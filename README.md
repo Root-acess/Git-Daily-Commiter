@@ -1,5 +1,4 @@
 
-````markdown
 # ✅ Auto-Contribution Script for GitHub (`daily-log`)
 
 Automate your daily GitHub contributions by auto-generating a log file and pushing it to your `daily-log` repo. Keep your green squares active the **legit** way!
@@ -116,22 +115,7 @@ echo "auto_contribute.py" >> .gitignore
 * Add daily motivational quotes or coding tips.
 * Switch to GitHub Actions to automate without keeping your PC on.
 
----
 
-## 🎁 Want More?
-
-✅ Add auto content (quotes, code tips)?
-✅ Want to use GitHub Actions instead of cron?
-
-Let me know — I’ll help you supercharge your automation!
-
----
 
 **Made with ❤️ by Charon**
 
-```
-
----
-
-Would you like me to save this as a file and give you the download?
-```
